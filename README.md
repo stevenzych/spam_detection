@@ -6,4 +6,4 @@ The general idea is that users compete to get the most spam-like response past t
 
 Right now, **the data** is sourced from this [Kaggle set](https://www.kaggle.com/datatattle/email-classification-nlp) but I intend on trying more datasets as this project moves forward.
 
-Reach out to me on Twitter @zych_steven for updates and feedback!
+Reach out to me on Twitter [@zych_steven](https://twitter.com/zych_steven) for updates and feedback!
